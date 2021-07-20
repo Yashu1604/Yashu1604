@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yashu1604
 - 👀 I’m interested in Front end web development.
-- 🌱 I’m currently learning the things that i have forgotten.
 - 💞️ I’m looking to collaborate on Front end web development, coding and problem solving. 
 - 📫 How to reach me via email yashuyashzz100@gmail.com
 
